@@ -1,0 +1,30 @@
+c:\users\miles\documents\visual studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\bin\Debug\WmtAnnouncementsForm.exe.config
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\bin\Debug\WmtAnnouncementsForm.exe
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\bin\Debug\WmtAnnouncementsForm.pdb
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.frm_Announcements.resources
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.Properties.Resources.resources
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.csproj.GenerateResource.Cache
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.exe
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.pdb
+C:\Users\Miles\documents\visual studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.Resource1.resources
+C:\Users\Miles\documents\visual studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.Resources.Resource1.resources
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\bin\Debug\WmtAnnouncementsForm.exe.manifest
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\bin\Debug\WmtAnnouncementsForm.application
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.csprojResolveAssemblyReference.cache
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.exe.manifest
+C:\Users\Miles\Documents\Visual Studio 2012\Projects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.application
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\bin\Debug\WmtAnnouncementsForm.exe.config
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.exe
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.pdb
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\bin\Debug\WmtAnnouncementsForm.exe.manifest
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\bin\Debug\WmtAnnouncementsForm.application
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\bin\Debug\WmtAnnouncementsForm.exe
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\bin\Debug\WmtAnnouncementsForm.pdb
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.csprojResolveAssemblyReference.cache
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.frm_Announcements.resources
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.Properties.Resources.resources
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.Resource1.resources
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.Resources.Resource1.resources
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.csproj.GenerateResource.Cache
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.exe.manifest
+C:\Users\Miles\Desktop\Development\VisualStudioProjects\WmtAnnouncementsForm\WmtAnnouncementsForm\obj\Debug\WmtAnnouncementsForm.application
